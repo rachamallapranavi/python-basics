@@ -1,12 +1,12 @@
 # 🐍 Python Basics - Level 1
 
-My Python learning journey as a 1st year CSD student at KITS.
+My Python learning journey as a 1st year CSE (Data Science) student at KITS.
 
 ### 👩‍💻 About Me
 - Name: Rachamalla Pranavi
-- College: Kakamani Institute of Technology and Science (KITS)
-- Branch: Computer Science & Design (CSD)
-- Goal: Become a Python Developer
+- College: KKR & KSR Institute of Technology and Science (KITS)
+- Branch: Computer Science Engineering (Data Science)
+- Goal: Become a Python Developer / Data Scientist
 
 ### 📂 What's Inside
 | File | Topic Learned |
